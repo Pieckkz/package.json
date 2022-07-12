@@ -1,17 +1,3 @@
-← Instalacja SASS 
-
-npm init 
-npm install node-sass --save-dev
-
-← Instalacja JQUERY
-
-npm install jquery --save
-
-← Instalacja LIVE-SERVER
-
-live-server -g
-sudo live-server -g
-
 
 -------------------------------------------------
 
